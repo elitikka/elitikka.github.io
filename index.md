@@ -3,6 +3,9 @@ This website is devoted to my cats:
 - [Mimmi](#mimmi)
 - [Nyyti](#nyyti)
 - [Bemme](#bemme)
+- [Cat comparison](#cat-comparison)
+- [Additional links](#additional-links)
+
 
 
 
@@ -73,12 +76,12 @@ My friend was setting up breeding paperwork and everything, but before she was a
 
 ### Video of Bemme trying to eat my mouse cursor
 
-https://github.com/elitikka/elitikka.github.io/blob/main/videos/bemme-mousecursor.mp4
+https://github.com/elitikka/elitikka.github.io/blob/11050e3feb9f5d629031939268c25edcc8ff2151/videos/bemme-mousecursor.mp4
 
 
 ---
 
-## Quick comparison
+## Cat comparison
 
 | Cat | Age | Size | Personality
 |---|---|---|---|
@@ -86,3 +89,8 @@ https://github.com/elitikka/elitikka.github.io/blob/main/videos/bemme-mousecurso
 | Nyyti | 6 | small but strong, aerodynamic | Intelligent, troublemaker, energetic|
 | Bemme | 11 | big chonk but it's mostly just fluff | Sweet, gentle ~and maybe a bit dumb~ |
 
+## Additional links
+Tumblr blog [Mimmi & Bemme](http://mimmi-ja-bemme.tumblr.com) devoted to my cats and other cat related media
+
+>[!IMPORTANT]
+> This static website was made for educational purposes
