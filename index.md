@@ -6,7 +6,7 @@ This website is devoted to my cats:
 - [Nyyti](#nyyti)
 - [Bemme](#bemme)
 - [Cat comparison](#cat-comparison)
-- [Additional links](#additional-links)
+- [Additional links and other info](#additional-links)
 
 ---
 
@@ -43,11 +43,11 @@ Mimmi was originally my older sister's cat. Back then we had one more cat, who h
 Just before Covid hit, I was talking with a friend of mine and she said that her friend has some kittens, and she asked if I would like to go see them. I said "sure". What could go wrong? *Well...* I went to see the kittens and one of them climbed on my lap and fell asleep. At that moment I decided that he will be coming back home with me. And so I bought Nyyti and brought him home. Nyyti has been a troublemaker since day 1. He is very agile, very energetic, and way too smart for his own good. Nyyti is constantly trying to figure out different ways to entertain himself. Only ceiling is the limit for him because sometimes he jumps on top of the doors to keep an eye on the household. Nyyti has a habit of waking me up every morning at 8. He ***<ins>insists</ins>*** on waking me up at 8 every morning. It's incredible how the cat's inner clock can be so accurate. There are mornings when I hate it, but most of the time I'm really thankful that I don't need an alarm clock. 
 
 If Nyyti could decide a task list for the day, it would include:  
-[x]  Wake up servant at 8 am.  
-[x]  Cause mayhem  
-[ ]  Investigate kitchen cabinets for extra bits of food  
-[ ]  Nap  
-[ ]  Ninja training practice
+- [x]  Wake up servant at 8 am.  
+- [x]  Cause mayhem  
+- [ ]  Investigate kitchen cabinets for extra bits of food  
+- [ ]  Nap  
+- [ ]  Ninja training practice
 
 ---
 
@@ -76,14 +76,15 @@ My friend was setting up breeding paperwork and everything, but before she was a
 | Nyyti | 6 | small but strong, aerodynamic | Intelligent, troublemaker, energetic|
 | Bemme | 11 | big chonk but it's mostly just fluff | Sweet, gentle, dumb (lights are on but nobody's home)|
 
-## Additional links
+## Additional links and other info
 Tumblr blog [Mimmi & Bemme](http://mimmi-ja-bemme.tumblr.com) about my cats and other cat related media
 
 > [!IMPORTANT]  
 > This website is for educational purposes only!
->- This site is part of an assignment
->    - This site was built using [GitHub Pages](https://pages.github.com/).  
->      - This was my first time using GitHub Pages
->      - I really like GitHub Pages
->   - I have previsouly created README files with markdown for previous school projects
->   - I've been making a nested list for demonstration purposes here
+
+- This site is part of an assignment
+    - This site was built using [GitHub Pages](https://pages.github.com/).  
+      - This was my first time using GitHub Pages
+      - I really like GitHub Pages
+   - I have previsouly created README files with markdown for previous school projects
+   - I've been making a nested list for demonstration purposes here
