@@ -69,13 +69,20 @@ If Nyyti could decide a task list for the day, it could include:
 
 ### Description
 
-My friend was setting up breeding paperwork and everything, but before she was able to finish everything related to bureocracy, an accident happened and then Bemme was born. Bemme was one of the three kittens. Bemme has always been really sweet. He's a real angel. :smiling_face_with_three_hearts: There are a lot of memes on the internet explaining how every two cat household has two cats: one sweet angel and one crazy devil. I'd say that this is accurate in my household and Bemme would be the angel one. Bemme is really careful to never hurt anyone. He is big, heavy and a bit clumsy. Bemme spends most of his days sleeping on the table while I'm on PC next to him. When I go to sleep, he'll follow me to bed. Bemme loves being brushed and if he could choose, he would get my attention and love all day long.
+My friend was setting up breeding paperwork and everything, but before she was able to finish everything related to bureocracy, an accident happened and then Bemme was born. Bemme was one of the three kittens. Bemme has always been really sweet. He's a real angel. There are a lot of memes on the internet explaining how every two cat household has two cats: one sweet angel and one crazy devil. I'd say that this is accurate in my household and Bemme would be the angel one. Bemme is really careful to never hurt anyone. He is big, heavy and a bit clumsy. Bemme spends most of his days sleeping on the table while I'm on PC next to him. When I go to sleep, he'll follow me to bed. Bemme loves being brushed and if he could choose, he would get my attention and love all day long. Sometimes Bemme spots the mouse cursor on my monitor and tries to eat it.
+
+### Video of Bemme trying to eat my mouse cursor
+
+https://github.com/elitikka/elitikka.github.io/blob/main/videos/bemme-mousecursor.mp4
+
 
 ---
 
 ## Quick comparison
+
 | Cat | Age | Size | Personality
 |---|---|---|---|
 | Mimmi | 14 | lightweight like a feather | Playful, social |
 | Nyyti | 6 | small but strong, aerodynamic | Intelligent, troublemaker, energetic|
 | Bemme | 11 | big chonk but it's mostly just fluff | Sweet, gentle ~and maybe a bit dumb~ |
+
