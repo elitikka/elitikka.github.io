@@ -6,14 +6,11 @@ This website is devoted to my cats:
 - [Cat comparison](#cat-comparison)
 - [Additional links](#additional-links)
 
-
-
-
 ---
 
 ![Mimmi the cat](/pictures/mimmi2.png)
 
-## ==Mimmi==
+## Mimmi
 
 ### General information
 
@@ -26,14 +23,11 @@ This website is devoted to my cats:
 
 Mimmi was originally my older sister's cat. Back then we had one more cat, who has since passed away, and my sister felt lonely living alone and wanted a cat for herself as well. She wanted a cat like we had: someone independent and easy to take care of. When Mimmi arrived, she was nothing like that. Mimmi was very energetic as a kitten and she would seek attention all the time. Mimmi loved to play and she was running and jumping around like a ninja. After a few months my sister gave up and gave Mimmi to me. Mimmi has stayed with me until 2023 when I gave her to mom, to keep her company while she's home taking care of my disabled dad. Mimmi loves it because my mom gives her all her attention. Every evening they get settled on the couch. My mom will be listening to her audio books while Mimmi takes a nap on her lap. During summertime Mimmi loves to go out and my mom takes her out on a walk on leash almost daily. 
 
-
-
 ---
-
 
 ![Nyyti the cat](/pictures/nyyti1.png)
 
-## ==Nyyti==
+## Nyyti
 
 ### General information
 
@@ -54,14 +48,11 @@ If Nyyti could decide a task list for the day, it could include:
 - [ ]  Nap
 - [ ]  Ninja training practice
 
-
-
 ---
-
 
 ![Bemme the cat](/pictures/bemme_lookup.png)
 
-## ==Bemme==
+## == Bemme ==
 
 ### General information
 
@@ -77,7 +68,6 @@ My friend was setting up breeding paperwork and everything, but before she was a
 ### Video of Bemme trying to eat my mouse cursor
 
 https://github.com/elitikka/elitikka.github.io/blob/11050e3feb9f5d629031939268c25edcc8ff2151/videos/bemme-mousecursor.mp4
-
 
 ---
 
